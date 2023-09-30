@@ -46,7 +46,7 @@ Useful code to dynamically create and name files based upon hostname, date and p
 Copy this file to the `/etc/rsyslog.d/` directory
 
 When sending logs make sure to send it to log01 IP address or wherever splunk is installed. On CentOS 7 you can do this in /etc/rsyslog.d/ where the sec350.conf was created.  
-![](https://github.com/liamb8/techjournal/blob/master/rsz_authpriv.jpg)
+![](https://github.com/liamb8/techjournal/blob/master/Pictures/rsz_authpriv.jpg)
 
 When setting up logging on vyOS you use these commands:  
 `set system syslog host 172.16.200.10 facility authpriv level info`  
@@ -63,4 +63,4 @@ Allow Splunk's WebUI port 8000/tcp on the CentOS firewall.
 `sudo firewall-cmd --zone=public --permanent --add-port=8000/tcp`
 
 ### Different SSH Login Events Recorded On Splunk:
-![](https://github.com/liamb8/techjournal/blob/master/rsz_log.png)
+![](https://github.com/liamb8/techjournal/blob/master/Pictures/rsz_log.png)
