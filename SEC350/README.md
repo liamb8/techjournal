@@ -5,6 +5,7 @@ This repository features labs and experiences from the "Enterprise and Network S
 ## Course Overview
 
 **Course Name:** Enterprise and Network Security Controls
+
 **Course Code:** SEC350
 
 ### Description
