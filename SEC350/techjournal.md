@@ -5,7 +5,7 @@ If eth0 is configured with dhcp it needs to be deleted as we're using a static I
 
 **Here you can see the interfaces on vyOS setup correctly**  
 
-![](https://github.com/liamb8/techjournal/blob/master/rsz_1interfaces.jpg)  
+![](https://github.com/liamb8/techjournal/blob/master/Pictures/rsz_interfaces.jpg) 
 
 When setting up the **Gateway and DNS** these are the commands to use. `set protocols static route 0.0.0.0/0 next-hop 10.0.17.2` then when setting up the name server do `set system name server 10.0.17.2`. Don't forget when saving changes you need to do `commit` then `save`.
 
