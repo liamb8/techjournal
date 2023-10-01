@@ -28,12 +28,12 @@ Welcome to my tech journal repository. This collection represents my academic ac
 
 ### System Admin. & Network Services II (SYS265)
 
-- **[Sys Admin II](https://chat.openai.com/c/Link-to-document)**: A project-oriented approach towards administration of distributed computing environments. The course includes a study on AAA systems, cross-platform authentication, host-based firewalls, DHCP, DNS, and network monitoring tools.
+- **[Sys Admin II](https://github.com/liamb8/techjournal/tree/master/College%20Work/SYS265)**: A project-oriented approach towards administration of distributed computing environments. The course includes a study on AAA systems, cross-platform authentication, host-based firewalls, DHCP, DNS, and network monitoring tools.
 
 ### Network Protocols (NET215)
 
-- **[Networking](https://chat.openai.com/c/Link-to-document)**: A comprehensive review of foundational Internet and enterprise network protocols aligned with TCP/IP and OSI models. The focus is on protocol development, structure, and integration with network-based applications, alongside hands-on protocol analysis activities.
+- **[Networking](https://github.com/liamb8/techjournal/tree/master/College%20Work/NET215)**: A comprehensive review of foundational Internet and enterprise network protocols aligned with TCP/IP and OSI models. The focus is on protocol development, structure, and integration with network-based applications, alongside hands-on protocol analysis activities.
 
 ### Cloud Administration & Deployment (SYS360)
 
-- **[Cloud Admin and Deploy](https://chat.openai.com/c/Link-to-document)**: An advanced study on commercial PAAS cloud offerings, encompassing current cloud platforms, secure deployment techniques, and the integration of cloud architectures with legacy systems. Additionally, the course delves into advanced Linux concepts within the cloud context.
+- **[Cloud Admin and Deploy](https://github.com/liamb8/techjournal/tree/master/College%20Work/SYS360)**: An advanced study on commercial PAAS cloud offerings, encompassing current cloud platforms, secure deployment techniques, and the integration of cloud architectures with legacy systems. Additionally, the course delves into advanced Linux concepts within the cloud context.
