@@ -16,7 +16,7 @@ During my academic years, I was fortunate enough to explore a wide range of subj
 
 ## HackTheBox Training and TryHackMe Adventures
 
-Outside of my structured academic curriculum, I'm fervently training on [HackTheBox](https://www.hackthebox.eu/) following the "Security Analyst" path. Moreover, I've embarked on the "Security Engineer" segment on [TryHackMe](https://www.tryhackme.com/), consistently broadening my skill set.
+Outside of my structured academic curriculum, I'm fervently training on [HackTheBox](https://www.hackthebox.com/) following the "Security Analyst" path. Moreover, I've embarked on the "Security Engineer" segment on [TryHackMe](https://www.tryhackme.com/), consistently broadening my skill set.
 
 ## Wrap-Up
 
