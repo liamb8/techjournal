@@ -10,7 +10,7 @@ In this lab, I crafted a comprehensive dashboard visualization in Kibana, focusi
 
 The dashboard can also be refined further by adding clearer column names, logon type, and sorting the results. See the screenshot below for the updated version:
 
-![image-20231016235120607](C:\Users\Liam\AppData\Roaming\Typora\typora-user-images\image-20231016235120607.png)
+![image-20231016235120607](https://github.com/liamb8/techjournal/blob/master/HackTheBox/Security%20Analyst%20Path/Pictures/lab1.1.JPG)
 
 ## **Skills and Tools Used:**
 
