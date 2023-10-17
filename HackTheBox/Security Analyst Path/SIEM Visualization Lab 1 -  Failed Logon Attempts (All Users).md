@@ -6,7 +6,7 @@
 
 In this lab, I crafted a comprehensive dashboard visualization in Kibana, focusing on tracking failed logon attempts across all users on Windows systems. The process began with the integration of a filter based on the event ID `4625 – Failed logon attempt on a Windows system`. Transitioning to the visualization phase, I selected a table format and incorporated rows for both the `user.name.keyword` field, representing the specific username associated with the failed logon, and the `host.hostname.keyword` field, denoting the system's hostname. To offer a quantitative insight into the security incidents, I integrated a metrics row utilizing the count function, thereby displaying the total number of failed logon attempts.
 
-![image-20231016233716246](C:\Users\Liam\AppData\Roaming\Typora\typora-user-images\image-20231016233716246.png)
+![image-20231016233716246](https://github.com/liamb8/techjournal/blob/master/HackTheBox/Security%20Analyst%20Path/Pictures/lab1.JPG)
 
 The dashboard can also be refined further by adding clearer column names, logon type, and sorting the results. See the screenshot below for the updated version:
 
