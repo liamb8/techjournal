@@ -6,7 +6,7 @@
 
 In this lab, I developed a Kibana visualization to monitor Failed Logon Attempts targeting Windows system users. To achieve precise results, I applied a filter based on the event ID `4625 – Failed logon attempt on a Windows system`. Additionally, I referenced the `winlog.event_data.SubStatus` field set to `0xC0000072`, pinpointing failures resulting from logon attempts with disabled user accounts. To ensure data accuracy, I incorporated the `user.name.keyword` field. The final visualization took the form of a table, detailing the `user.name.keyword` (showcasing the username) and employing the metrics count function to represent the number of relevant records. The visualization was further enriched with the `host.hostname.keyword` row, revealing the hostname associated with each failed logon attempt.
 
-![image-20231016225925800](C:\Users\Liam\AppData\Roaming\Typora\typora-user-images\image-20231016225925800.png)
+![image-20231016225925800](https://github.com/liamb8/techjournal/blob/master/HackTheBox/Security%20Analyst%20Path/Pictures/lab2.JPG)
 
 ## **Skills and Tools Used:**
 
