@@ -49,6 +49,3 @@
 - **Chart Command:** `| chart count by _time, Image` visualizes event counts over time per process.
 - **Eval Command:** `| eval Process_Path=lower(Image)` creates a new field with the lowercase version of Image.
 - **Rex Command:** `| rex max_match=0 "[^%](?<guid>{.*})" | table guid` extracts and displays GUIDs using a regex pattern.
-
-#### Lookup Command
-- **Data Enrichment:** Uses external CSV data to add context to search results, as shown in the example of `malware_lookup.csv`.
