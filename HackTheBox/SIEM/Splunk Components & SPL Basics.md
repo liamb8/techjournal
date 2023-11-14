@@ -37,8 +37,8 @@
 - **Wildcard Characters:** `index="main" "*UNKNOWN*"` searches for terms that include "UNKNOWN".
 
 #### Fields and Comparison Operators
-- **Field Searching:** `index="main" EventCode!=1` finds events where EventCode is not 1.
-- **Fields Command:** `index="main" sourcetype="WinEventLog:Sysmon" EventCode=1 | fields - User` removes the User field from results.
+- **Field Searching:** `index="main" EventCode!=4624` finds events where EventCode is not 4624.
+- **Fields Command:** `index="main" sourcetype="WinEventLog:Security" EventCode=4624 | fields - User` removes the User field from results.
 
 #### SPL Commands
 - **Table Command:** `| table _time, host, Image` organizes results into a table.
